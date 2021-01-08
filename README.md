@@ -1,4 +1,4 @@
-![image info](./intro.jpg)
+![image info](./git.png)
 
 ### Hi there 👋
 
