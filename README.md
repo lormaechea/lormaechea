@@ -1,5 +1,3 @@
-![image info](./intro2.png)
-
 ### Hi there 👋
 
 My name is Lucía and I specialized in the field of Natural Language Engineering thanks to the Master's Degree in <em>Traitement Automatique des Langues</em> at INALCO (Paris), from which I graduated last September.
