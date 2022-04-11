@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://lormaechea.github.io/
+https://luciaormaechea.com/
